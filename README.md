@@ -85,4 +85,10 @@ LinkedIn : https://www.linkedin.com/in/md-fahad-hossain-095904303/
 
 Instagram : https://www.instagram.com/mdfahadhossain006/
 
+Project Online Version Link : https://fahad-portfolio-006.netlify.app/
+
 Project Link: https://github.com/MdFahadHossain006/PORTFOLIO
+
+**Legal action will be taken against violators.**
+
+[Contact for Licensing](https://www.facebook.com/md.fahad.hossain.359237/)
