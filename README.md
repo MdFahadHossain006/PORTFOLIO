@@ -89,6 +89,29 @@ Project Online Version Link : https://fahad-portfolio-006.netlify.app/
 
 Project Link: https://github.com/MdFahadHossain006/PORTFOLIO
 
+### ⚠️ Copyright & License
+
+**© 2026 MD. FAHAD HOSSAIN. All Rights Reserved.**
+
+This project is **proprietary software**. Unauthorized copying, distribution, 
+modification, or use of this code is strictly prohibited.
+
+- ❌ **No forking** without permission
+- ❌ **No copying** of source code
+- ❌ **No commercial use**
+- ✅ **Personal use only** as an end-user
+
 **Legal action will be taken against violators.**
 
-[Contact for Licensing](https://www.facebook.com/md.fahad.hossain.359237/)
+[Contact for Licensing](https://www.instagram.com/mdfahadhossain006)
+
+
+<p align="center">
+
+<a href="https://github.com/MdFahadHossain006/FBROADCAST">
+<img src="https://img.shields.io/badge/⭐-Star%20This%20Repository-yellow?style=for-the-badge"/>
+</a>
+
+</p>
+
+
